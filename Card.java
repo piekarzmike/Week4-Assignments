@@ -32,7 +32,7 @@ public class Card {
 		// Declare and initialize count variable
 		int count = 0;
 
-		// Create 5 instances of a card with that contains a face/suit value
+		// Create 5 instances of a card that contains a face/suit value
 		while (count < 5) {
 			Card card = new Card();
 			System.out.println(card);
